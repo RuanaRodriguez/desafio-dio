@@ -1,3 +1,5 @@
-# desafio-dio 
+# Desafio de projeto Git/GitHub
 Repertorio criado para o  Desafio de projetos.
-Desafio de projeto Git/GitHub
+
+## Links úteis
+[Sintaxe básica  Markdown](https://www.markdownguide.org/)
